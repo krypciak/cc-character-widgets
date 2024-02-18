@@ -7,8 +7,8 @@ Adds a character swap widgets to [CCUILib](https://github.com/conorlawton/nax-cc
 ## Building
 
 ```bash
-git clone https://github.com/krypciak/cc-jetpack-widget
-cd cc-jetpack-widget
+git clone https://github.com/krypciak/cc-character-widgets
+cd cc-character-widgets
 npm install
 npm run start
 # this should return no errors (hopefully)
