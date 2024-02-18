@@ -1,0 +1,16 @@
+{
+    "id": "cc-character-widgets",
+    "version": "0.0.1",
+    "title": "Character swap widgets",
+    "description": "Adds a character swap quick menu widgets",
+    "repository": "https://github.com/krypciak/cc-character-widgets",
+    "tags": ["widget", "character"],
+    "authors": "krypek",
+    "icons": {
+        "24": "icon/icon.png"
+    },
+    "dependencies": {
+        "nax-ccuilib": ">=1.2.3"
+    },
+    "plugin": "plugin.js"
+}
