@@ -1,12 +1,8 @@
 <!-- markdownlint-disable MD013 MD024 MD001 MD045 -->
 
-# Jetpack widget
+# Character swap widgets
 
-Adds a jetpack widget to [CCUILib](https://github.com/conorlawton/nax-ccuilib)  
-
-![image](https://github.com/krypciak/cc-jetpack-widget/assets/115574014/f7477bd5-3361-4c12-a70d-48e8d5b34870)
-
-
+Adds a character swap widgets to [CCUILib](https://github.com/conorlawton/nax-ccuilib)
 
 ## Building
 
