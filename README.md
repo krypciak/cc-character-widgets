@@ -12,8 +12,8 @@ Adds a character swap widgets to [CCUILib](https://github.com/conorlawton/nax-cc
 ```bash
 git clone https://github.com/krypciak/cc-character-widgets
 cd cc-character-widgets
-npm install
-npm run start
+pnpm install
+pnpm run start
 # this should return no errors (hopefully)
 npx tsc
 ```
