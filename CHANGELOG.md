@@ -3,6 +3,11 @@
 # Change Log
 
 ## [Unreleased]
+
+### Fixed
+
+- Removed invalid mod tag from `ccmod.json`
+
 ## [1.0.0] 2024-02-18
 
 ### Added

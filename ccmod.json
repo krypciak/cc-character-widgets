@@ -4,7 +4,7 @@
     "title": "Character swap widgets",
     "description": "Adds a character swap quick menu widgets",
     "repository": "https://github.com/krypciak/cc-character-widgets",
-    "tags": ["widget", "character"],
+    "tags": ["widget"],
     "authors": "krypek",
     "icons": {
         "24": "icon/icon.png"
