@@ -1,6 +1,6 @@
 {
     "id": "cc-character-widgets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Character swap widgets",
     "description": "Adds a character swap quick menu widgets",
     "repository": "https://github.com/krypciak/cc-character-widgets",
