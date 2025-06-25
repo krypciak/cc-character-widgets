@@ -1,19 +1,7 @@
 import { PluginClass } from 'ultimate-crosscode-typedefs/modloader/mod'
-import { Mod1 } from './types'
-
-import 'nax-ccuilib/src/headers/nax/quick-menu-public-api.d.ts'
+import type {} from 'nax-ccuilib/src/ui/quick-menu/quick-menu-extension'
 
 export default class CharacterWidgets implements PluginClass {
-    static dir: string
-    static mod: Mod1
-
-    constructor(mod: Mod1) {
-        CharacterWidgets.dir = mod.baseDirectory
-        CharacterWidgets.mod = mod
-        CharacterWidgets.mod.isCCL3 = mod.findAllAssets ? true : false
-        CharacterWidgets.mod.isCCModPacked = mod.baseDirectory.endsWith('.ccmod/')
-    }
-
     async poststart() {
         /* character swap */
         function getPlayerHeadConfig(playerName: string): nax.ccuilib.QuickMenuWidgetImageConfig {
