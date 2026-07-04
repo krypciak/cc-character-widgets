@@ -1,4 +1,4 @@
-import { PluginClass } from 'ultimate-crosscode-typedefs/modloader/mod'
+import type { PluginClass } from 'ultimate-crosscode-typedefs/modloader/mod'
 import type {} from 'nax-ccuilib/src/ui/quick-menu/quick-menu-extension'
 
 export default class CharacterWidgets implements PluginClass {
