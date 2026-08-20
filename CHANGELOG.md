@@ -3,6 +3,12 @@
 # Change Log
 
 ## [Unreleased]
+
+### Added
+
+- Add option (enabled by default) to exclude unplayable vanilla characters
+- Sort characters by class
+
 ## [1.0.1] 2024-09-23
 
 ### Fixed
