@@ -1,6 +1,6 @@
 {
     "name": "cc-character-widgets",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "type": "module",
     "scripts": {
         "start": "npx esbuild --target=es2018 --format=esm --platform=node --bundle --sourcemap=inline --outfile=plugin.js src/plugin.ts",
