@@ -1,4 +1,6 @@
 import { Opts } from './options'
+import type {} from 'nax-ccuilib/src/ui/quick-menu/quick-menu-extension'
+import type {} from 'nax-ccuilib/src/ui/quick-menu/quick-menu-preload'
 
 function getCombatArtCount(config: sc.PlayerConfig) {
     const arts = Object.values(config.elementConfigs).flatMap(c => Object.entries(c.actions))
